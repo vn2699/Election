@@ -1,0 +1,38 @@
+[2019-09-28 11:29:46.585] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/Documents/election/~/root/User'
+[2019-09-28 11:29:47.392] [renderer1] [error] connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock: Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:29:49.458] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:29:49.464] [renderer1] [error] connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock: Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:34:49.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:39:49.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:44:50.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:49:51.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:54:52.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 11:59:53.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:04:54.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:12:57.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:17:58.629] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:22:59.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:28:00.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:33:01.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:35:07.605] [renderer1] [warning] UNRESPONSIVE extension host, 'JuanBlanco.solidity' took 97% of 1592.034ms, saved PROFILE here: '/tmp/exthost-b9f815.cpuprofile' [{"id":"gc","total":21344,"percentage":1},{"id":"JuanBlanco.solidity","total":1551349,"percentage":97},{"id":"program","total":805,"percentage":0},{"id":"self","total":1637,"percentage":0},{"id":"vscode.git","total":15702,"percentage":1},{"id":"vscode.merge-conflict","total":166,"percentage":0},{"id":"vscode.typescript-language-features","total":114,"percentage":0}]
+[2019-09-28 12:38:01.612] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:43:01.612] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:48:01.613] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
