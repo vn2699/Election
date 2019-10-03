@@ -36,3 +36,33 @@
     at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
 [2019-09-28 12:48:01.613] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
     at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:53:01.614] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 12:58:02.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:03:03.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:08:04.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:13:05.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:18:06.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:23:07.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:28:08.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:33:09.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:38:10.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:43:11.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:48:12.612] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:53:13.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 13:58:14.611] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-09-28 14:03:15.610] [renderer1] [error] Error: connect ENOENT /root/Documents/election/~/root/1.38.1-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)

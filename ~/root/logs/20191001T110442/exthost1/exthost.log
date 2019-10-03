@@ -1,0 +1,24 @@
+[2019-10-01 11:04:50.797] [exthost] [info] extension host started
+[2019-10-01 11:04:50.812] [exthost] [info] ExtensionService#_doActivateExtension JuanBlanco.solidity {"startup":false,"activationEvent":"onLanguage:solidity"}
+[2019-10-01 11:04:50.812] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/juanblanco.solidity-0.0.64/out/src/extension
+[2019-10-01 11:04:59.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-10-01 11:04:59.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-10-01 11:04:59.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-10-01 11:04:59.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-10-01 11:04:59.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-10-01 11:04:59.307] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2019-10-01 11:04:59.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-10-01 11:04:59.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-10-01 11:04:59.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-10-01 11:04:59.786] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/main
+[2019-10-01 11:05:00.075] [exthost] [info] eager extensions activated
+[2019-10-02 12:24:07.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-10-02 12:24:07.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-10-02 12:24:07.561] [exthost] [info] ExtensionService#_doActivateExtension spoonscen.es6-mocha-snippets {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-10-02 12:24:07.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/spoonscen.es6-mocha-snippets-0.2.2/out/src/extension
+[2019-10-02 12:24:31.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-10-02 12:24:31.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-10-02 16:36:47.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-10-02 16:36:47.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-10-03 11:02:19.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-10-03 11:02:19.661] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

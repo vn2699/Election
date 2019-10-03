@@ -563,8 +563,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1400,14 +1399,14 @@
     "pickerWorkingDir": "/root/Documents",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///root/Documents/election/contracts",
-            "backupPath": "/root/Documents/election/~/root/Backups/e48ccda1ab64bd7569090683c26678a1",
+            "folder": "file:///root/Documents/election",
+            "backupPath": "/root/Documents/election/~/root/Backups/063e8916d8af9ef30cf322799f33b73c",
             "uiState": {
                 "mode": 1,
-                "x": 171,
-                "y": 59,
-                "width": 1024,
-                "height": 709
+                "x": 696,
+                "y": 61,
+                "width": 670,
+                "height": 707
             }
         },
         "openedWindows": []
